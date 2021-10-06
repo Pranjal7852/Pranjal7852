@@ -1,12 +1,12 @@
-### Hi there, I'm Pranjal Goyal - aka [friendly neighborhood Web Developer][website] 👋
+### Hi there, I'm Pranjal Goyal - aka friendly neighborhood Web Developer [Link for my Personal Wesbite is Here][website] 👋
 
-## I'm a Student, Freelancer, and Developer!!
+## I'm a Student, Freelancer, and FrontEnd Developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love Photography and Travelling.
 
 
 <details>
