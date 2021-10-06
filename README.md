@@ -1,5 +1,6 @@
 ### Hi there, I'm Pranjal Goyal - aka friendly neighborhood Web Developer
-<br>
+
+
 [Link for my Personal Wesbite is Here][website] 👋
 
 ## I'm a Student, Freelancer, and FrontEnd Developer!!
