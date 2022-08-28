@@ -44,10 +44,7 @@ You can connect with me here- <br><br>
 ## 💻 Languages and Tools
 
 <p align="left"> <a href="https://developer.android.com" target="_blank">
-
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
-
 </a> </p>
 
 <p align=center >
