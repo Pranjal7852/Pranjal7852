@@ -41,6 +41,10 @@ You can connect with me here- <br><br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pranjal-goyal-42a7a55b/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/goelpranjal/)
 
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/800325852733636629)
+
+
+
 ## 💻 Languages and Tools
 
 <p align="left"> <a href="https://developer.android.com" target="_blank">
@@ -89,9 +93,9 @@ You can connect with me here- <br><br>
 </a>
 
 <!-- <p align=center >
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal7852&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranjalgoyal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal7852&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranjalgoyal" />
 
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pranjal7852&show_icons=true&locale=en&theme=dark" alt="pranjalgoyal" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal7852&show_icons=true&locale=en&theme=dark" alt="pranjalgoyal" />
 
 </p> -->
 
