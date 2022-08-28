@@ -49,14 +49,15 @@ You can connect with me here-
 
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshabhende" /> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranjal7852&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranjal7852&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)]
+(https://git.io/streak-stats)
 </p>
 
 <p align=center >
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal7852&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
 <br/>
 <p align=center >
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal7852&show_icons=true&locale=en" alt="aakankshabhende" />
 </p>
 
 ## ✔ My Projects
