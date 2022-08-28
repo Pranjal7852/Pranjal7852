@@ -12,9 +12,7 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 <br>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=32CD32&style=flat" alt="pranjal_goyal" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal7852&label=Profile%20views&color=32CD32&style=flat" alt="pranjal_goyal" /> </p>
 
 - 🌱 I’m currently looking for <b>Intership Opportunities</b>
 - 🔭 I’m currently exploring <b>Web3</b>
@@ -35,11 +33,11 @@ I love exploring technology and documenting stuff that I come across and find in
 <p>
 I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
 <br/>
-You can connect with me here- 
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@goelpranjal)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> ](https://about.me/pranjalgoyal)
+You can connect with me here- <br><br>
+
 </p>
 
+[<img src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://about.me/pranjalgoyal)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pranjal-goyal-42a7a55b/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/goelpranjal/)
 
