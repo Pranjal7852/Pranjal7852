@@ -12,7 +12,7 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 <br>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal7852&label=Profile%20views&color=32CD32&style=flat" alt="pranjal_goyal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal7852&label=Profile%20views&color=32CD32&style=flat-the-badge" alt="pranjal_goyal" /> </p>
 
 - 🌱 I’m currently looking for <b>Intership Opportunities</b>
 - 🔭 I’m currently exploring <b>Web3</b>
@@ -49,10 +49,10 @@ You can connect with me here- <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranjal7852&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" /> 
 </p>
 
-<p align=center >
+<p align=left >
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal7852&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
 <br/>
-<p align=center >
+<p align=right >
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal7852&show_icons=true&locale=en" alt="aakankshabhende" />
 </p>
 
@@ -62,24 +62,3 @@ You can connect with me here- <br><br>
 Check my repositories below 👇
 </p>
 </div>
-
-<!--
-**Aakanksha0407/Aakanksha0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakankshabhende&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### 👉 Front-end
-### 👉 Back-end
-### 👉 Programming Language
-### 👉 Database
-### 👉 Version Control
-### 👉 Others
--->
