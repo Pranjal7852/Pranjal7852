@@ -4,8 +4,6 @@
 
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
-  ✨ A Web Developer and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey.  <br/>
-  &nbsp &nbsp  &nbsp I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
   🌱 I work closely with the local training and development centre <b><a href="https://team-exe-website.herokuapp.com/">Team.EXE</a></b> to abridge the technological gap separating the current market trends with academic means of webinars, in-person consultation and running local campaigns and meetups. <br/>
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
