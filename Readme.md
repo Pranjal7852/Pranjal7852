@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm [Pranjal Goyal](https://pranjal-portfolio.herokuapp.com/)!
+# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm [Pranjal Goyal](https://pranjalgoyal-portfolio.netlify.app/)! 
 
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
