@@ -24,7 +24,7 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 ## 🚀 My Blogs
 
 I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@goelpranjal)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@goyalpranjal)
 
 ## 🤝 Connect with me
 
