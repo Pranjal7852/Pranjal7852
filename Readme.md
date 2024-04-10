@@ -1,7 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# Hey there, I'm [Pranjal Goyal](https://www.pranjalgoyal.site)! 
-
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
   🌱 I work closely with the local training and development centre <b><a href="https://team-exe-website.herokuapp.com/">Team.EXE</a></b> to abridge the technological gap separating the current market trends with academic means of webinars, in-person consultation and running local campaigns and meetups. <br/>
@@ -12,13 +10,10 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal7852&label=Profile%20views&color=32CD32&style=flat-the-badge" alt="pranjal_goyal" /> </p>
 
-- 🌱 I’m currently looking for <b>Intership Opportunities</b>
-- 🔭 I’m currently exploring <b>Web3</b>
-- 💬 Ask me about **Front End Web Development** and **Open Source Contributions**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **pranjal7852@gmail.com**
+
+
 - ⚡ Fun fact: I love photography and skateboarding.
-- ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements.
+- ❤️ ZSH.
   <br/>
 
 ## 🚀 My Blogs
@@ -41,17 +36,6 @@ You can connect with me here- <br><br>
 
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/800325852733636629)
 
-
-<p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pranjal7852&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pranjalgoyal"/> 
-</p>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal7852&show_icons=true&locale=en&theme=dark" alt="pranjalgoyal" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal7852&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranjalgoyal" />
-</a>
 
 <!-- <p align=center >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal7852&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranjalgoyal" />
